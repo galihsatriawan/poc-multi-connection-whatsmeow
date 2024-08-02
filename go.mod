@@ -1,4 +1,4 @@
-module github.com/galihsatriawan/wa-multi-connect
+module github.com/galihsatriawan/poc-multi-connection-whatsmeow
 
 go 1.20
 

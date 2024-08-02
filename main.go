@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/galihsatriawan/wa-multi-connect/tracer"
+	"github.com/galihsatriawan/poc-multi-connection-whatsmeow/tracer"
 	_ "github.com/mattn/go-sqlite3"
 	"go.mau.fi/whatsmeow"
 	"go.mau.fi/whatsmeow/store/sqlstore"
